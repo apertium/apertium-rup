@@ -148,6 +148,18 @@
       <!--<e><p><l>ilor</l><r>ã<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>-->
     </pardef>
 
+    <pardef n="aghentsi/a__n_f">
+      <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <!--<e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>-->
+      <e><p><l>i</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>-->
+      <!--<e><p><l>ãljei</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>-->
+      <e><p><l>i</l><r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p><l>iljei</l><r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p><l>i</l><r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <!--<e><p><l>ilor</l><r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>-->
+    </pardef>
+
+
 
     <!-- SECTION: Verbs -->
 
@@ -329,6 +341,7 @@
 
     <e lm="limbã"><i>limb</i><par n="limb/ã__n_f"/></e>
     <e lm="dzuã"><i>dzu</i><par n="dzu/ã__n_f"/></e>
+    <e lm="aghentsia"><i>aghentsi</i><par n="aghentsi/a__n_f"/></e>
 
     <!-- SECTION: Proper nouns -->
 
