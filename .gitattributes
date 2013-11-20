@@ -2,3 +2,4 @@
 /Makefile -text
 /apertium-rup.rup.dix -text
 dev/caragiu-mariotseanu/dinuntru.freq.categorized.txt -text
+dev/caragiu-mariotseanu/neuri.freq.categorized.txt -text
