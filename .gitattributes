@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
 /apertium-rup.rup.dix -text
+dev/bitola/rup.freq.categorised.txt -text
 dev/caragiu-mariotseanu/dinuntru.freq.categorized.txt -text
 dev/caragiu-mariotseanu/neuri.freq.categorized.txt -text
