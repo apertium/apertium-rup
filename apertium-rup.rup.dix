@@ -1065,50 +1065,50 @@
 
     <pardef n="ar/du__vblex">
 	    <e><p><l>du</l><r>du<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>dz</l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>di</l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>demu</l><r>du<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>deț</l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>du</l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
-	    <e><p><l>sâ</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l>sâ</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>deamu</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+	    <e><p><l>deai</l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>dea</l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>deamu</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>deaț</l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>dea</l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
-	    <e><p><l>deamu</l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>șu</l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+	    <e><p><l>și</l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>si</l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>sirămu</l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>sirăț</l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>siră</l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
 	
 	    <e><p><l>diri</l><r>du<s n="vblex"/><s n="pp"/></r></p></e>
     </pardef>
 
     <pardef n="arm/ănu__vblex">
 	    <e><p><l>ănu</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>ăi</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>ăni</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>ănimu</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>ăniț</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>ănu</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	    <e><p><l>âneamu</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>âneai</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>ânea</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
 	    <e><p><l>âneamu</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>âneaț</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>ânea</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	    <e><p><l>așiu</l><r>ănu<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>ași</l><r>ănu<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>asi</l><r>ănu<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>asirămu</l><r>ănu<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>asirăț</l><r>ănu<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>asirâ</l><r>ănu<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
 	
 	    <e><p><l>asâ</l><r>ănu<s n="vblex"/><s n="pp"/></r></p></e>
     </pardef>

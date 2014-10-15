@@ -1065,43 +1065,43 @@
 
     <pardef n="ar/du__vblex">
 	    <e><p><l>du</l><r>du<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>dz</l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>di</l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>demu</l><r>du<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>deț</l><r>du<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>du</l><r>du<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
-	    <e><p><l>sâ</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l>sâ</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>deamu</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+	    <e><p><l>deai</l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>dea</l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>deamu</l><r>du<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>deaț</l><r>du<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>dea</l><r>du<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
-	    <e><p><l>deamu</l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>șu</l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+	    <e><p><l>și</l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>si</l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>sirămu</l><r>du<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>sirăț</l><r>du<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>siră</l><r>du<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
 	
 	    <e><p><l>diri</l><r>du<s n="vblex"/><s n="pp"/></r></p></e>
     </pardef>
 
     <pardef n="arm/ănu__vblex">
 	    <e><p><l>ănu</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>ăi</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>ăni</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>ănimu</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	    <e><p><l>ăniț</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>ănu</l><r>ănu<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	    <e><p><l>âneamu</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+	    <e><p><l>âneai</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+	    <e><p><l>ânea</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
 	    <e><p><l>âneamu</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-	    <e><p><l></l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+	    <e><p><l>âneaț</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+	    <e><p><l>ânea</l><r>ănu<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	    <e><p><l>așiu</l><r>ănu<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
 	    <e><p><l></l><r>ănu<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -5930,6 +5930,654 @@
     <e lm="stulcinedzu"><i>stulcin</i><par n="abur/edzu__vblex"/></e>
     <e lm="nzgâibedzu"><i>nzgâib</i><par n="abur/edzu__vblex"/></e>
     <e lm="dizgâibedzu"><i>dizgâib</i><par n="abur/edzu__vblex"/></e>
+    
+    <e lm="ac"><i>ațu</i><par n="ac/ațu__vblex"/></e>
+	<e lm="disc"><i>ațu</i><par n="ac/ațu__vblex"/></e>
+	<e lm="acľi"><i>emu</i><par n="acľi/emu__vblex"/></e>
+	<e lm="acu"><i>apiru</i><par n="acu/apiru__vblex"/></e>
+	<e lm="discu"><i>apiru</i><par n="acu/apiru__vblex"/></e>
+	<e lm="acumpâr"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="discumpâr"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ascump"><i>ăru</i><par n="ascump/ăru__vblex"/></e>
+	<e lm="acumtin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="apuad"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="dizd"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="priad"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="adiľi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="adiľi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="apuadu"><i>cu</i><par n="apuadu/cu__vblex"/></e>
+	<e lm="apreadun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="afl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="afund"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disfund"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="agiun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="aghlistur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="al"><i>agu</i><par n="al/agu__vblex"/></e>
+	<e lm="al"><i>atru</i><par n="al/atru__vblex"/></e>
+	<e lm="al"><i>avdu</i><par n="al/avdu__vblex"/></e>
+	<e lm="al"><i>eapidu</i><par n="al/eapidu__vblex"/></e>
+	<e lm="al"><i>eapidu</i><par n="al/eapidu__vblex"/></e>
+	<e lm="aludz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="alumt"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="alunic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="a"><i>mu</i><par n="a/mu__vblex"/></e>
+	<e lm="avuț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="amâr"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="amâr"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="disamâr"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="ambuc"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ambuir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="amint"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="amint"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="amiridz"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="amp"><i>aturu</i><par n="amp/aturu__vblex"/></e>
+	<e lm="amb"><i>aturlu</i><par n="amb/aturlu__vblex"/></e>
+	<e lm="ampihiur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="amurdz"><i>eaști</i><par n="amurdz/eaști__vblex"/></e>
+	<e lm="dizmurdz"><i>eaști</i><par n="amurdz/eaști__vblex"/></e>
+	<e lm="amurț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="dizmurț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="an"><i>alțu</i><par n="an/alțu__vblex"/></e>
+	<e lm="anâpudz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="anciup"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ancuńi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="and"><i>opu</i><par n="and/opu__vblex"/></e>
+	<e lm="anduplic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ang"><i>anu</i><par n="ang/anu__vblex"/></e>
+	<e lm="angârlim"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="angiur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="an"><i>otu</i><par n="an/otu__vblex"/></e>
+	<e lm="ans"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="andris"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="parans"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="anvârlig"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="dizvârlig"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="apâr"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="apir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="apir"><i>â</i><par n="apir/â__vblex"/></e>
+	<e lm="apl"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="apl"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="aspri"><i>ndu</i><par n="aspri/ndu__vblex"/></e>
+	<e lm="apr"><i>ochiu</i><par n="apr/ochiu__vblex"/></e>
+	<e lm="apu"><i>nu</i><par n="apu/nu__vblex"/></e>
+	<e lm="ar"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ar"><i>adzimu</i><par n="ar/adzimu__vblex"/></e>
+	<e lm="ar"><i>avdu</i><par n="al/avdu__vblex"/></e>
+	<e lm="arâb"><i>oșiu</i><par n="arâb/oșiu__vblex"/></e>
+	<e lm="disrâb"><i>oșiu</i><par n="arâb/oșiu__vblex"/></e>
+	<e lm="arâchiușiur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ar"><i>ădu</i><par n="ar/ădu__vblex"/></e>
+	<e lm="hamuar"><i>ădu</i><par n="ar/ădu__vblex"/></e>
+	<e lm="ar"><i>ămu</i><par n="ar/ămu__vblex"/></e>
+	<e lm="arâp"><i>asu</i><par n="arâp/asu__vblex"/></e>
+	<e lm="ar"><i>ătu</i><par n="ar/ătu__vblex"/></e>
+	<e lm="arâzbun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="arâzg"><i>anu</i><par n="ang/anu__vblex"/></e>
+	<e lm="ar"><i>du</i><par n="ar/du__vblex"/></e>
+	<e lm="arm"><i>ănu</i><par n="arm/ănu__vblex"/></e>
+	<e lm="aru"><i>amig</i><par n="aru/amig__vblex"/></e>
+	<e lm="ar"><i>odu</i><par n="ar/odu__vblex"/></e>
+	<e lm="arupâț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="ars"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="apuar"><i>ucu</i><par n="apuar/ucu__vblex"/></e>
+	<e lm="aruf"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="arug"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="arumin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="arup"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="aruv"><i>ersu</i><par n="aruv/ersu__vblex"/></e>
+	<e lm="aruv"><i>ersu</i><par n="aruv/ersu__vblex"/></e>
+	<e lm="asc"><i>aldu</i><par n="asc/aldu__vblex"/></e>
+	<e lm="asc"><i>alnu</i><par n="asc/alnu__vblex"/></e>
+	<e lm="disc"><i>alnu</i><par n="asc/alnu__vblex"/></e>
+	<e lm="asc"><i>apu</i><par n="asc/apu__vblex"/></e>
+	<e lm="asc"><i>apiru</i><par n="acu/apiru__vblex"/></e>
+	<e lm="asc"><i>apitu</i><par n="asc/apitu__vblex"/></e>
+	<e lm="asc"><i>apitu</i><par n="asc/apitu__vblex"/></e>
+	<e lm="ascuchi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ascuchi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ascult"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="parascult"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ascutur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="așt"><i>eptu</i><par n="așt/eptu__vblex"/></e>
+	<e lm="ast"><i>aľiu</i><par n="ast/aľiu__vblex"/></e>
+	<e lm="ast"><i>orcu</i><par n="ast/orcu__vblex"/></e>
+	<e lm="astup"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="distup"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="asun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="arâsun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="aur"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="aurl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="avd"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="paraavd"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="av"><i>egľiu</i><par n="av/egľiu__vblex"/></e>
+	<e lm="parav"><i>egľiu</i><par n="av/egľiu__vblex"/></e>
+	<e lm="priv"><i>egľiu</i><par n="av/egľiu__vblex"/></e>
+	<e lm="apreav"><i>egľiu</i><par n="av/egľiu__vblex"/></e>
+	<e lm="avin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ayizm"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="azbu"><i>airu</i><par n="azbu/airu__vblex"/></e>
+	<e lm="b"><i>agu</i><par n="al/agu__vblex"/></e>
+	<e lm="amb"><i>airu</i><par n="azbu/airu__vblex"/></e>
+	<e lm="dizb"><i>airu</i><par n="azbu/airu__vblex"/></e>
+	<e lm="b"><i>aligu</i><par n="b/aligu__vblex"/></e>
+	<e lm="mb"><i>alțu</i><par n="an/alțu__vblex"/></e>
+	<e lm="b"><i>așiu</i><par n="b/așiu__vblex"/></e>
+	<e lm="dizb"><i>așiu</i><par n="b/așiu__vblex"/></e>
+	<e lm="sprib"><i>așiu</i><par n="b/așiu__vblex"/></e>
+	<e lm="b"><i>atu</i><par n="b/atu__vblex"/></e>
+	<e lm="apub"><i>eau</i><par n="apub/eau__vblex"/></e>
+	<e lm="cuțub"><i>eau</i><par n="apub/eau__vblex"/></e>
+	<e lm="b"><i>eru</i><par n="b/eru__vblex"/></e>
+	<e lm="bișic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="dizbișic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="b"><i>esu</i><par n="b/esu__vblex"/></e>
+	<e lm="bl"><i>astimu</i><par n="bl/astimu__vblex"/></e>
+	<e lm="dizbr"><i>ațu</i><par n="ac/ațu__vblex"/></e>
+	<e lm="brutic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="brum"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="mbrum"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="bubur"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="burbur"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="bucur"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="mbuz"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mbugâț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="mbumb"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="bumbun"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="butur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mbuv"><i>etu</i><par n="mbuv/etu__vblex"/></e>
+	<e lm="c"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="câchin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="c"><i>adu</i><par n="c/adu__vblex"/></e>
+	<e lm="pric"><i>adu</i><par n="c/adu__vblex"/></e>
+	<e lm="c"><i>aftu</i><par n="c/aftu__vblex"/></e>
+	<e lm="nc"><i>airu</i><par n="azbu/airu__vblex"/></e>
+	<e lm="disc"><i>airu</i><par n="azbu/airu__vblex"/></e>
+	<e lm="nc"><i>alicu</i><par n="nc/alicu__vblex"/></e>
+	<e lm="disc"><i>alicu</i><par n="nc/alicu__vblex"/></e>
+	<e lm="c"><i>alcu</i><par n="c/alcu__vblex"/></e>
+	<e lm="parac"><i>alcu</i><par n="c/alcu__vblex"/></e>
+	<e lm="ncâldz"><i>âscu</i><par n="ncâldz/âscu__vblex"/></e>
+	<e lm="c"><i>ăntu</i><par n="c/ăntu__vblex"/></e>
+	<e lm="c"><i>ănticu</i><par n="c/ănticu__vblex"/></e>
+	<e lm="c"><i>ăntu</i><par n="c/ăntu__vblex"/></e>
+	<e lm="disc"><i>ăntu</i><par n="c/ăntu__vblex"/></e>
+	<e lm="cânuț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="câr"><i>agu</i><par n="al/agu__vblex"/></e>
+	<e lm="discâr"><i>agu</i><par n="al/agu__vblex"/></e>
+	<e lm="ncârbun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ncârlig"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="discârlig"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="câștig"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="nc"><i>atinu</i><par n="nc/atinu__vblex"/></e>
+	<e lm="disci"><i>alpu</i><par n="disci/alpu__vblex"/></e>
+	<e lm="nciu"><i>amiru</i><par n="nciu/amiru__vblex"/></e>
+	<e lm="ncirg"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="nchi"><i>adicu</i><par n="nchi/adicu__vblex"/></e>
+	<e lm="dischi"><i>adicu</i><par n="nchi/adicu__vblex"/></e>
+	<e lm="chi"><i>aptinu</i><par n="chi/aptinu__vblex"/></e>
+	<e lm="dischi"><i>aptinu</i><par n="chi/aptinu__vblex"/></e>
+	<e lm="chic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="chiur"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="chipin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="chipit"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="chipit"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="chiși"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nci"><i>adru</i><par n="nci/adru__vblex"/></e>
+	<e lm="ciuciur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nciun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="diciun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="clâtin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ncľi"><i>egu</i><par n="ncľi/egu__vblex"/></e>
+	<e lm="discľi"><i>egu</i><par n="ncľi/egu__vblex"/></e>
+	<e lm="discl"><i>oțu</i><par n="discl/oțu__vblex"/></e>
+	<e lm="c"><i>ocu</i><par n="c/ocu__vblex"/></e>
+	<e lm="parac"><i>ocu</i><par n="c/ocu__vblex"/></e>
+	<e lm="nc"><i>ohiu</i><par n="nc/ohiu__vblex"/></e>
+	<e lm="disc"><i>ohiu</i><par n="nc/ohiu__vblex"/></e>
+	<e lm="c"><i>osu</i><par n="c/osu__vblex"/></e>
+	<e lm="disc"><i>osu</i><par n="c/osu__vblex"/></e>
+	<e lm="cr"><i>epu</i><par n="cr/epu__vblex"/></e>
+	<e lm="ncufciug"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="culc"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="culindz"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="cul"><i>egu</i><par n="ncľi/egu__vblex"/></e>
+	<e lm="cum"><i>ăndu</i><par n="cum/ăndu__vblex"/></e>
+	<e lm="cumnic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="cur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="cur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="curm"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="pricurm"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="curm"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="discurm"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ncurun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="discurun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="cust"><i>â</i><par n="apir/â__vblex"/></e>
+	<e lm="cutr"><i>eamburu</i><par n="cutr/eamburu__vblex"/></e>
+	<e lm="cutriyir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="discâciub"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ncuțut"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="cuturbur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dâr"><i>ămu</i><par n="ar/ămu__vblex"/></e>
+	<e lm="d"><i>eapinu</i><par n="d/eapinu__vblex"/></e>
+	<e lm="d"><i>eapir</i><par n="d/eapir__vblex"/></e>
+	<e lm="d"><i>espiru</i><par n="d/espiru__vblex"/></e>
+	<e lm="nd"><i>esu</i><par n="b/esu__vblex"/></e>
+	<e lm="dijgľin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dim"><i>ăndu</i><par n="cum/ăndu__vblex"/></e>
+	<e lm="dińic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disc"><i>acâru</i><par n="disc/acâru__vblex"/></e>
+	<e lm="disc"><i>aciu</i><par n="disc/aciu__vblex"/></e>
+	<e lm="discult"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disfi"><i>ngu</i><par n="disfi/ngu__vblex"/></e>
+	<e lm="diși"><i>ertu</i><par n="diși/ertu__vblex"/></e>
+	<e lm="dișt"><i>eptu</i><par n="așt/eptu__vblex"/></e>
+	<e lm="disp"><i>oľiu</i><par n="disp/oľiu__vblex"/></e>
+	<e lm="ditun"><i>â</i><par n="apir/â__vblex"/></e>
+	<e lm="ditun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizgrâbun"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="dizm"><i>alu</i><par n="dizm/alu__vblex"/></e>
+	<e lm="dizńi"><i>erdu</i><par n="dizńi/erdu__vblex"/></e>
+	<e lm="dizvir"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="dizv"><i>ocu</i><par n="c/ocu__vblex"/></e>
+	<e lm="d"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="d"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="d"><i>ormu</i><par n="d/ormu__vblex"/></e>
+	<e lm="ad"><i>ormu</i><par n="d/ormu__vblex"/></e>
+	<e lm="apud"><i>ormu</i><par n="d/ormu__vblex"/></e>
+	<e lm="ndrug"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizdrug"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dz"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="dz"><i>ăcu</i><par n="dz/ăcu__vblex"/></e>
+	<e lm="dz"><i>emu</i><par n="acľi/emu__vblex"/></e>
+	<e lm="dz"><i>eadziru</i><par n="dz/eadziru__vblex"/></e>
+	<e lm="favric"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nf"><i>așiu</i><par n="b/așiu__vblex"/></e>
+	<e lm="disf"><i>așiu</i><par n="b/așiu__vblex"/></e>
+	<e lm="nf"><i>armâcu</i><par n="nf/armâcu__vblex"/></e>
+	<e lm="disf"><i>armâcu</i><par n="nf/armâcu__vblex"/></e>
+	<e lm="f"><i>armu</i><par n="f/armu__vblex"/></e>
+	<e lm="nf"><i>ărnu</i><par n="nf/ărnu__vblex"/></e>
+	<e lm="disf"><i>ărnu</i><par n="nf/ărnu__vblex"/></e>
+	<e lm="f"><i>ericu</i><par n="f/ericu__vblex"/></e>
+	<e lm="f"><i>etu</i><par n="mbuv/etu__vblex"/></e>
+	<e lm="nfitiľi"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="flitur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="fluir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nf"><i>oľiu</i><par n="disp/oľiu__vblex"/></e>
+	<e lm="disf"><i>oľiu</i><par n="disp/oľiu__vblex"/></e>
+	<e lm="furtic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="nfrunt"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nfrândz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="disfrundz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="fr"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="frimint"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nfuľi"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="fultâc"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="afum"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="fumig"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="fur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nfurc"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="furnic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nfiș"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="fut"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="gâdâlic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="gâlbidz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="ngind"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizgind"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="gi"><i>ocu</i><par n="c/ocu__vblex"/></e>
+	<e lm="giudic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="prigiudic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="giudic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="prigiudic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ngiug"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizgiug"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ngiumitic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="giur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="sprigiur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizgľi"><i>emu</i><par n="acľi/emu__vblex"/></e>
+	<e lm="ngľi"><i>ețu</i><par n="ngľi/ețu__vblex"/></e>
+	<e lm="dizgľi"><i>ețu</i><par n="ngľi/ețu__vblex"/></e>
+	<e lm="ngľindur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizg"><i>oľu</i><par n="dizg/oľu__vblex"/></e>
+	<e lm="ngr"><i>așiu</i><par n="b/așiu__vblex"/></e>
+	<e lm="dizgr"><i>așiu</i><par n="b/așiu__vblex"/></e>
+	<e lm="ngr"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="parangr"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="grindin"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="ngr"><i>opu</i><par n="and/opu__vblex"/></e>
+	<e lm="dizgr"><i>opu</i><par n="and/opu__vblex"/></e>
+	<e lm="ngr"><i>oșiu</i><par n="arâb/oșiu__vblex"/></e>
+	<e lm="dizgr"><i>oșiu</i><par n="arâb/oșiu__vblex"/></e>
+	<e lm="gudur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="gust"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ngust"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="h"><i>ascu</i><par n="h/ascu__vblex"/></e>
+	<e lm="hârâx"><i>eaști</i><par n="amurdz/eaști__vblex"/></e>
+	<e lm="hi"><i>erbu</i><par n="hi/erbu__vblex"/></e>
+	<e lm="parahi"><i>erbu</i><par n="hi/erbu__vblex"/></e>
+	<e lm="prihi"><i>erbu</i><par n="hi/erbu__vblex"/></e>
+	<e lm="nhir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="huț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="imn"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="priimn"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="intr"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="azvur"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="lândzidz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="l"><i>eagânu</i><par n="l/eagânu__vblex"/></e>
+	<e lm="l"><i>egu</i><par n="ncľi/egu__vblex"/></e>
+	<e lm="dizl"><i>egu</i><par n="ncľi/egu__vblex"/></e>
+	<e lm="limpidz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="lișin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm=""><i>ľiau</i><par n="/ľiau__vblex"/></e>
+	<e lm="para"><i>ľiau</i><par n="/ľiau__vblex"/></e>
+	<e lm="ľi"><i>ertu</i><par n="diși/ertu__vblex"/></e>
+	<e lm="dumľi"><i>artâ</i><par n="dumľi/artâ__vblex"/></e>
+	<e lm="dumľi"><i>ertu</i><par n="diși/ertu__vblex"/></e>
+	<e lm="mân"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="dizm"><i>ațu</i><par n="ac/ațu__vblex"/></e>
+	<e lm="m"><i>aținu</i><par n="m/aținu__vblex"/></e>
+	<e lm="m"><i>ăcu</i><par n="dz/ăcu__vblex"/></e>
+	<e lm="param"><i>ăcu</i><par n="dz/ăcu__vblex"/></e>
+	<e lm="prim"><i>ăcu</i><par n="dz/ăcu__vblex"/></e>
+	<e lm="muscum"><i>ăcu</i><par n="dz/ăcu__vblex"/></e>
+	<e lm="dizmârit"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mâriț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="mârșin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="m"><i>ășcu</i><par n="m/ășcu__vblex"/></e>
+	<e lm="mâtric"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mb"><i>eciu</i><par n="mb/eciu__vblex"/></e>
+	<e lm="mb"><i>etu</i><par n="mbuv/etu__vblex"/></e>
+	<e lm="dizb"><i>etu</i><par n="mbuv/etu__vblex"/></e>
+	<e lm="mbulbuc"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="m"><i>etur</i><par n="m/etur__vblex"/></e>
+	<e lm="min"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="amin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="m"><i>ănu</i><par n="arm/ănu__vblex"/></e>
+	<e lm="misur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="m"><i>oľiu</i><par n="disp/oľiu__vblex"/></e>
+	<e lm="dizm"><i>oľiu</i><par n="disp/oľiu__vblex"/></e>
+	<e lm="m"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="rizm"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="mpârlig"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="mpichi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mprumut"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mpuf"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="muhlidz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="mulț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="murmur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mușiț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="muț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="mut"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="strâmut"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="muț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nc"><i>aciu</i><par n="disc/aciu__vblex"/></e>
+	<e lm="disc"><i>alțu</i><par n="an/alțu__vblex"/></e>
+	<e lm="disculț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nc"><i>apu</i><par n="asc/apu__vblex"/></e>
+	<e lm="nc"><i>arcu</i><par n="nc/arcu__vblex"/></e>
+	<e lm="paranc"><i>arcu</i><par n="nc/arcu__vblex"/></e>
+	<e lm="disc"><i>arcu</i><par n="nc/arcu__vblex"/></e>
+	<e lm="nc"><i>arcu</i><par n="nc/arcu__vblex"/></e>
+	<e lm="nc"><i>atâru</i><par n="nc/atâru__vblex"/></e>
+	<e lm="ncârdz"><i>eľiu</i><par n="ncârdz/eľiu__vblex"/></e>
+	<e lm="nciurnic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="ncrunt"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="discrunt"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ndrup"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="n"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="nfu"><i>stedzu</i><par n="nfu/stedzu__vblex"/></e>
+	<e lm="ngľit"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="niur"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="nipârtic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="ńi"><i>ergu</i><par n="ńi/ergu__vblex"/></e>
+	<e lm="ńir"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="ńir"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="ńișc"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nupt"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="nu"><i>aținu</i><par n="m/aținu__vblex"/></e>
+	<e lm="n"><i>odu</i><par n="ar/odu__vblex"/></e>
+	<e lm="dizn"><i>odu</i><par n="ar/odu__vblex"/></e>
+	<e lm="nșiumiț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ns"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="ntr"><i>ebu</i><par n="ntr/ebu__vblex"/></e>
+	<e lm="nț"><i>apu</i><par n="asc/apu__vblex"/></e>
+	<e lm="nț"><i>arcu</i><par n="nc/arcu__vblex"/></e>
+	<e lm="nțân"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nț"><i>epu</i><par n="cr/epu__vblex"/></e>
+	<e lm="nț"><i>ertu</i><par n="diși/ertu__vblex"/></e>
+	<e lm="nțil"><i>egu</i><par n="ncľi/egu__vblex"/></e>
+	<e lm="ntunic"><i>â</i><par n="apir/â__vblex"/></e>
+	<e lm="ntunic"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="numir"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="nv"><i>ețu</i><par n="ngľi/ețu__vblex"/></e>
+	<e lm="dizv"><i>ețu</i><par n="ngľi/ețu__vblex"/></e>
+	<e lm="uftic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm=""><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="u"><i>auâ</i><par n="u/auâ__vblex"/></e>
+	<e lm=""><i>ou</i><par n="/ou__vblex"/></e>
+	<e lm="mp"><i>aftu</i><par n="c/aftu__vblex"/></e>
+	<e lm="mp"><i>aiu</i><par n="mp/aiu__vblex"/></e>
+	<e lm="mp"><i>aľu</i><par n="mp/aľu__vblex"/></e>
+	<e lm="mp"><i>almu</i><par n="mp/almu__vblex"/></e>
+	<e lm="mp"><i>apu</i><par n="asc/apu__vblex"/></e>
+	<e lm="p"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="disp"><i>artu</i><par n="disp/artu__vblex"/></e>
+	<e lm="p"><i>ascu</i><par n="h/ascu__vblex"/></e>
+	<e lm="mpâstr"><i>amu</i><par n="mpâstr/amu__vblex"/></e>
+	<e lm="p"><i>atu</i><par n="b/atu__vblex"/></e>
+	<e lm="sp"><i>ănticu</i><par n="c/ănticu__vblex"/></e>
+	<e lm="mpâpuț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dispâpuț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mpârcâz"><i>onu</i><par n="mpârcâz/onu__vblex"/></e>
+	<e lm="mp"><i>armâc</i><par n="mp/armâc__vblex"/></e>
+	<e lm="disp"><i>armâc</i><par n="mp/armâc__vblex"/></e>
+	<e lm="mp"><i>eaticu</i><par n="mp/eaticu__vblex"/></e>
+	<e lm="disp"><i>eaticu</i><par n="mp/eaticu__vblex"/></e>
+	<e lm="p"><i>eryiu</i><par n="p/eryiu__vblex"/></e>
+	<e lm="mp"><i>etalu</i><par n="mp/etalu__vblex"/></e>
+	<e lm="disp"><i>etalu</i><par n="mp/etalu__vblex"/></e>
+	<e lm="mp"><i>eaturu</i><par n="mp/eaturu__vblex"/></e>
+	<e lm="mpiciur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dispiciur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mp"><i>elticu</i><par n="mp/elticu__vblex"/></e>
+	<e lm="pi"><i>ngu</i><par n="disfi/ngu__vblex"/></e>
+	<e lm="pirida"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="pitr"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="pl"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="pl"><i>ăntu</i><par n="c/ăntu__vblex"/></e>
+	<e lm="displ"><i>ăntu</i><par n="c/ăntu__vblex"/></e>
+	<e lm="mpl"><i>ociu</i><par n="mpl/ociu__vblex"/></e>
+	<e lm="pluir"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="p"><i>ortu</i><par n="p/ortu__vblex"/></e>
+	<e lm="p"><i>otu</i><par n="an/otu__vblex"/></e>
+	<e lm="mpr"><i>adu</i><par n="c/adu__vblex"/></e>
+	<e lm="pr"><i>ăndzu</i><par n="pr/ăndzu__vblex"/></e>
+	<e lm="prili"><i>ngu</i><par n="disfi/ngu__vblex"/></e>
+	<e lm="dispr"><i>ońiu</i><par n="dispr/ońiu__vblex"/></e>
+	<e lm="mpulbir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="spulbir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="mpum"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="dispum"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="puric"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="purint"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dispurint"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dispu"><i>tu</i><par n="dispu/tu__vblex"/></e>
+	<e lm="putridz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="rânțidz"><i>aști</i><par n="rânțidz/aști__vblex"/></e>
+	<e lm="r"><i>ogu</i><par n="r/ogu__vblex"/></e>
+	<e lm="ns"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="s"><i>altu</i><par n="s/altu__vblex"/></e>
+	<e lm="s"><i>apu</i><par n="asc/apu__vblex"/></e>
+	<e lm="ns"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="dis"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="parans"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="ns"><i>aricu</i><par n="ns/aricu__vblex"/></e>
+	<e lm="dis"><i>aricu</i><par n="ns/aricu__vblex"/></e>
+	<e lm="s"><i>aturu</i><par n="amp/aturu__vblex"/></e>
+	<e lm="ns"><i>azmu</i><par n="ns/azmu__vblex"/></e>
+	<e lm="s"><i>ămtu</i><par n="s/ămtu__vblex"/></e>
+	<e lm="nsârg"><i>ociu</i><par n="mpl/ociu__vblex"/></e>
+	<e lm="s"><i>ărmu</i><par n="s/ărmu__vblex"/></e>
+	<e lm="nsârmâniț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="sc"><i>adu</i><par n="c/adu__vblex"/></e>
+	<e lm="sc"><i>archinu</i><par n="sc/archinu__vblex"/></e>
+	<e lm="sc"><i>arminu</i><par n="sc/arminu__vblex"/></e>
+	<e lm="sc"><i>ărcicu</i><par n="sc/ărcicu__vblex"/></e>
+	<e lm="nschifur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="schin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="sc"><i>olu</i><par n="sc/olu__vblex"/></e>
+	<e lm="sc"><i>otu</i><par n="an/otu__vblex"/></e>
+	<e lm="parasc"><i>otu</i><par n="an/otu__vblex"/></e>
+	<e lm=""><i>discrumedz discrumedzu</i><par n="/discrumedz discrumedzu__vblex"/></e>
+	<e lm="s"><i>eațiru</i><par n="s/eațiru__vblex"/></e>
+	<e lm="s"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="sfr"><i>eadinu</i><par n="sfr/eadinu__vblex"/></e>
+	<e lm="sfuldzir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="sfuldzir"><i>â</i><par n="apir/â__vblex"/></e>
+	<e lm="nși"><i>eru</i><par n="b/eru__vblex"/></e>
+	<e lm="șirpic"><i>hiedzu</i><par n="anvârlig/hiedzu__vblex"/></e>
+	<e lm="nșiu"><i>iedzu</i><par n="nșiu/iedzu__vblex"/></e>
+	<e lm="diși"><i>elu</i><par n="diși/elu__vblex"/></e>
+	<e lm="șcľiu"><i>apicu</i><par n="șcľiu/apicu__vblex"/></e>
+	<e lm="și"><i>edu</i><par n="și/edu__vblex"/></e>
+	<e lm="parași"><i>edu</i><par n="și/edu__vblex"/></e>
+	<e lm="nșigun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dișigun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nșiľi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dișiľi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nșiulin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="șiuir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nșiulir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="șiupâr"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="șiuplic"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="șiuț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dișiuț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="șiuț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="sluț"><i>âscu</i><par n="ncâldz/âscu__vblex"/></e>
+	<e lm="ns"><i>ochiu</i><par n="apr/ochiu__vblex"/></e>
+	<e lm="nsuț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="nsp"><i>atu</i><par n="b/atu__vblex"/></e>
+	<e lm="sp"><i>elu</i><par n="diși/elu__vblex"/></e>
+	<e lm="sprila"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="spindzur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm=""><i>dispindzur dispindzuru</i><par n="/dispindzur dispindzuru__vblex"/></e>
+	<e lm="spr"><i>eamitù</i><par n="spr/eamitù__vblex"/></e>
+	<e lm="spriimn"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="spreli"><i>ngu</i><par n="disfi/ngu__vblex"/></e>
+	<e lm="spu"><i>nu</i><par n="apu/nu__vblex"/></e>
+	<e lm="nst"><i>ogu</i><par n="r/ogu__vblex"/></e>
+	<e lm="dist"><i>ogu</i><par n="r/ogu__vblex"/></e>
+	<e lm="nstur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="strâb"><i>atu</i><par n="b/atu__vblex"/></e>
+	<e lm="str"><i>ămbu</i><par n="str/ămbu__vblex"/></e>
+	<e lm="parastr"><i>ămbu</i><par n="str/ămbu__vblex"/></e>
+	<e lm="strâpu"><i>ngu</i><par n="disfi/ngu__vblex"/></e>
+	<e lm="stric"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="stric"><i>oru</i><par n="d/oru__vblex"/></e>
+	<e lm="strig"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="sufl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disufl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="su"><i>gu</i><par n="su/gu__vblex"/></e>
+	<e lm="sugľiț"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nsul"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disul"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nsum"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nsimig"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disimig"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="asurdz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="disurdz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="surp"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="surups"><i>eaști</i><par n="amurdz/eaști__vblex"/></e>
+	<e lm="suschir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="t"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="nt"><i>alâru</i><par n="nt/alâru__vblex"/></e>
+	<e lm="t"><i>aľu</i><par n="mp/aľu__vblex"/></e>
+	<e lm="ntâciun"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ntâl"><i>azu</i><par n="ntâl/azu__vblex"/></e>
+	<e lm="ntâl"><i>agânu</i><par n="ntâl/agânu__vblex"/></e>
+	<e lm="ntâr"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="distâr"><i>acu</i><par n="mbumb/acu__vblex"/></e>
+	<e lm="târ"><i>âscu</i><par n="ncâldz/âscu__vblex"/></e>
+	<e lm="nt"><i>epcu</i><par n="nt/epcu__vblex"/></e>
+	<e lm="t"><i>ocu</i><par n="c/ocu__vblex"/></e>
+	<e lm="ntumn"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="t"><i>ocu</i><par n="c/ocu__vblex"/></e>
+	<e lm="t"><i>ornu</i><par n="t/ornu__vblex"/></e>
+	<e lm="arâst"><i>ornu</i><par n="t/ornu__vblex"/></e>
+	<e lm="trâs"><i>aru</i><par n="apuad/aru__vblex"/></e>
+	<e lm="tr"><i>eamburu</i><par n="cutr/eamburu__vblex"/></e>
+	<e lm="tr"><i>ecu</i><par n="apl/ecu__vblex"/></e>
+	<e lm="triir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nț"><i>alpu</i><par n="disci/alpu__vblex"/></e>
+	<e lm="disț"><i>alpu</i><par n="disci/alpu__vblex"/></e>
+	<e lm="nț"><i>andâru</i><par n="nț/andâru__vblex"/></e>
+	<e lm="ț"><i>asu</i><par n="arâp/asu__vblex"/></e>
+	<e lm="disț"><i>asu</i><par n="arâp/asu__vblex"/></e>
+	<e lm="ț"><i>ănu</i><par n="arm/ănu__vblex"/></e>
+	<e lm="nțâruhi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disțâruhi"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ț"><i>eru</i><par n="b/eru__vblex"/></e>
+	<e lm="țin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nț"><i>ernu</i><par n="nț/ernu__vblex"/></e>
+	<e lm="țiur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nțup"><i>atu</i><par n="b/atu__vblex"/></e>
+	<e lm="turb"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="turbur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nturin"><i>â</i><par n="apir/â__vblex"/></e>
+	<e lm="ud"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ult"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="umfl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="disumfl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="umpl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="paraumpl"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="urâț"><i>âscu</i><par n="ncâldz/âscu__vblex"/></e>
+	<e lm="urdin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="urdin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="urdz"><i>ăcu</i><par n="dz/ăcu__vblex"/></e>
+	<e lm="urdz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="ulmic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="ustur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="us"><i>ucu</i><par n="apuar/ucu__vblex"/></e>
+	<e lm="uți"><i>du</i><par n="ar/du__vblex"/></e>
+	<e lm="v"><i>aitu</i><par n="v/aitu__vblex"/></e>
+	<e lm="v"><i>atâmu</i><par n="v/atâmu__vblex"/></e>
+	<e lm="nvâr"><i>achiu</i><par n="nvâr/achiu__vblex"/></e>
+	<e lm="dizvâr"><i>achiu</i><par n="nvâr/achiu__vblex"/></e>
+	<e lm="vârcus"><i>eaști</i><par n="amurdz/eaști__vblex"/></e>
+	<e lm="nvir"><i>eadzâ</i><par n="brum/eadzâ__vblex"/></e>
+	<e lm="nvirdz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="viștidz"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="v"><i>ersu</i><par n="aruv/ersu__vblex"/></e>
+	<e lm="vintur"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="vintin"><i></i><par n="bucur/__vblex"/></e>
+	<e lm="vindic"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="apuvind"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="nvińiț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="dizvińiț"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="dizvirghir"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizvirin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizv"><i>eru</i><par n="b/eru__vblex"/></e>
+	<e lm="nv"><i>ohu</i><par n="nv/ohu__vblex"/></e>
+	<e lm="dizv"><i>ohu</i><par n="nv/ohu__vblex"/></e>
+	<e lm="v"><i>oiu</i><par n="v/oiu__vblex"/></e>
+	<e lm="parav"><i>oiu</i><par n="v/oiu__vblex"/></e>
+	<e lm="nv"><i>olbu</i><par n="nv/olbu__vblex"/></e>
+	<e lm="v"><i>omu</i><par n="v/omu__vblex"/></e>
+	<e lm="disching"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="diszâv"><i>onu</i><par n="mpârcâz/onu__vblex"/></e>
+	<e lm="zbur"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="parazbur"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="cacuzbur"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="xenuzbur"><i>ăscu</i><par n="aludz/ăscu__vblex"/></e>
+	<e lm="zdrumin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="zdruncin"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="zgâț"><i>ănu</i><par n="arm/ănu__vblex"/></e>
+	<e lm="azghi"><i>eru</i><par n="b/eru__vblex"/></e>
+	<e lm="zgr"><i>ămu</i><par n="ar/ămu__vblex"/></e>
+	<e lm="zgru"><i>amicu</i><par n="zgru/amicu__vblex"/></e>
+	<e lm="zgrum"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="dizgrum"><i>u</i><par n="acumpâr/u__vblex"/></e>
+	<e lm="zmu"><i>aticu</i><par n="zmu/aticu__vblex"/></e>
   </section>
   
   <section id="final" type="inconditional">
