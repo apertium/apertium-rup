@@ -4595,6 +4595,12 @@
 
     <e lm="hiu"><i></i><par n="/hiu__vbser"/></e>
     <e lm="amu"><i></i><par n="a/mu__vbhaver"/></e>
+
+    <e lm="cântu"><i>cânt</i><par n="cânt/u__vblex"/></e>
+    <!--e lm="lucredzu"><i>lucr</i><par n="lucr/edzu__vblex"/></e-->
+    <e lm="cad"><i>c</i><par n="c/ad__vblex"/></e>
+    <e lm="bat"><i>b</i><par n="b/at__vblex"/></e>
+    <e lm="dormu"><i>d</i><par n="d/ormu__vblex"/></e>
     
     <e lm="achicâsescu"><i>achicâs</i><par n="achicâs/escu__vblex"/></e>
     <e lm="acrescu"><i>acr</i><par n="achicâs/escu__vblex"/></e>

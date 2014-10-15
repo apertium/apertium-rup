@@ -1,6 +1,7 @@
 * text=auto !eol
 /Makefile -text
 /apertium-rup.rup.dix -text
+/apertium-rup.rup.dix~ -text
 dev/bitola/rup.freq.categorised.1.txt -text
 dev/bitola/rup.freq.categorised.2.txt -text
 dev/bitola/rup.freq.categorised.3.txt -text
@@ -9,3 +10,5 @@ dev/caragiu-mariotseanu/dinuntru.freq.categorized.txt -text
 dev/caragiu-mariotseanu/neuri.freq.categorized.txt -text
 dev/caragiu-mariotseanu/vrana[!!-~](tulliu).corpus.txt -text
 dev/caragiu-mariotseanu/vrana[!!-~](tulliu).freq.txt -text
+/rup.autogen.bin -text
+/rup.automorf.bin -text
