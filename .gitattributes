@@ -12,3 +12,8 @@ dev/caragiu-mariotseanu/vrana[!!-~](tulliu).corpus.txt -text
 dev/caragiu-mariotseanu/vrana[!!-~](tulliu).freq.txt -text
 /rup.autogen.bin -text
 /rup.automorf.bin -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
